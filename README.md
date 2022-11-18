@@ -1,6 +1,14 @@
-### Hello World 👋
+## Hello World 👋
 
-I'm currently working on [HyperTuner](https://github.com/hyper-tuner) (automotive).
+My current projects:
+
+- [HyperTuner](https://github.com/hyper-tuner) (automotive)
+
+---
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=karniv00l&theme=dark&hide_border=true&border_radius=20" />
+</p>
 
 <!--
 **karniv00l/karniv00l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
