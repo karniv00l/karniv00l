@@ -6,9 +6,7 @@ My current projects:
 
 ---
 
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=karniv00l&theme=dark&hide_border=true&border_radius=20" />
-</p>
+![stats](https://streak-stats.demolab.com?user=karniv00l&theme=dark&hide_border=true&border_radius=20)
 
 <!--
 **karniv00l/karniv00l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
