@@ -4,7 +4,7 @@ My current projects:
 
 - [HyperTuner](https://github.com/hyper-tuner) (automotive)
 
-### Stats
+---
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=karniv00l&theme=dark&hide_border=true&border_radius=20)
 
