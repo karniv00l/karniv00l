@@ -4,9 +4,9 @@ My current projects:
 
 - [HyperTuner](https://github.com/hyper-tuner) (automotive)
 
----
+<!-- ---
 
-![GitHub Stats](https://streak-stats.demolab.com?user=karniv00l&theme=dark&hide_border=true&border_radius=20)
+![GitHub Stats](https://streak-stats.demolab.com?user=karniv00l&theme=dark&hide_border=true&border_radius=20) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karniv00l&layout=compact&theme=dark&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) -->
 
