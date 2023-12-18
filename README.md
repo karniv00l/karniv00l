@@ -2,7 +2,8 @@
 
 My current projects:
 
-- [HyperTuner](https://github.com/hyper-tuner) (automotive)
+- [HyperTuner](https://github.com/hyper-tuner) (Open source tools for Speeduino, FOME and rusEFI ECU)
+- [FOME](https://github.com/fome-tech) (Free Open Motorsports ECU)
 
 <!-- ---
 
